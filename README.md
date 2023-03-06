@@ -48,3 +48,5 @@ Pros of UDP:
 Cons of UDP: all the features of TCP that do not appear in UDP.
 
 Code example: use netcat (needed to install on windows)
+
+- ### thanks to Hussein Nasser for all his efforts.
